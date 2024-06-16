@@ -23,7 +23,9 @@ mvn clean package
 ```
 
 执行成功后会在 **target** 目录下出现 "shit-distributed-1.0.jar" 这个jar包
-即对应题目的程序
+即对应题目的jar包
+
+**tip: 因为第四道题是 python 写的,所以直接从 works 目录里面拿就好**
 
 # 直接用现成的(推荐)
 
